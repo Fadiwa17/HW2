@@ -1,7 +1,5 @@
 # HW2 – Assignment 2 (Web Programming)
 
-This repository contains Homework 2.
-
 ## GitHub Pages
 Main page (index):
 https://fadiwa17.github.io/HW2/
